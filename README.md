@@ -14,3 +14,6 @@ See mvn/HIERARCHY.md, field-guides/, language/SEVEN.md, credits/CREDITS.md.
 Built for the lowest node first.
 η = useful_joules / human_joules
 R → 1.0
+
+## Knowledge Integration
+See `docs/knowledge/`.
